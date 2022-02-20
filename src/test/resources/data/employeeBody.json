@@ -1,0 +1,22 @@
+{
+	"createEmployee1": {
+		"name": "Shiva",
+		"salary": "123456",
+		"age": "21"
+	},
+	"createEmployee2": {
+		"name": "Dhilip",
+		"salary": "123456",
+		"age": "25"
+	},
+	"updateEmployee1": {
+		"name": "ShivaKumar",
+		"salary": "23456",
+		"age": "31"
+	},
+	"updateEmployee2": {
+		"name": "DhilipKumar",
+		"salary": "45678",
+		"age": "33"
+	}
+}
